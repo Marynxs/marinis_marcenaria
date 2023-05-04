@@ -318,7 +318,6 @@ footer {
     text-align: center;
     cursor: pointer;
     position: relative;
-    border-bottom: 2px solid #c8beb9;
 }
 
 .about{
@@ -354,6 +353,7 @@ footer {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    border-bottom: 2px solid #c8beb9;
 }
 
 #text #zap .top-image, #text #insta .top-image {
@@ -383,6 +383,7 @@ footer {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    border-bottom: 2px solid #c8beb9;
 }
 #text #zap a, #text #insta a{
     display: block;
